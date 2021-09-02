@@ -1,9 +1,9 @@
 #pragma once
 
-struct basicData {
-
+struct mat_basicData {
+	float 
 };
 
-struct coreExtension {
+struct mat_dat_Extension {
 
 };
