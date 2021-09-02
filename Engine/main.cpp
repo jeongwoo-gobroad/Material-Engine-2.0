@@ -5,3 +5,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "material_datastructure.h"
+#include "physics_datastructure.h"
+#include "material_sort.h"
+#include "physics_datastructure.h"
+#include "physics_basecalcfunctions.h"
+#include "physics_sort.h"

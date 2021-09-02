@@ -140,9 +140,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="material_basecalcfunction.cpp" />
+    <ClCompile Include="material_sort.cpp" />
+    <ClCompile Include="physics_basecalcfunctions.cpp" />
+    <ClCompile Include="physics_basecalcfunctions.h" />
+    <ClCompile Include="physics_sort.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="material_basecalcfunctions.h" />
     <ClInclude Include="material_datastructure.h" />
+    <ClInclude Include="material_sort.h" />
+    <ClInclude Include="physics_datastructure.h" />
+    <ClInclude Include="physics_sort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

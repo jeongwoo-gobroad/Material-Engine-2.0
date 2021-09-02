@@ -18,9 +18,36 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="physics_basecalcfunctions.h">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="material_basecalcfunction.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="material_sort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="physics_basecalcfunctions.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="physics_sort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="material_datastructure.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="physics_datastructure.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="material_sort.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="material_basecalcfunctions.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="physics_sort.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
