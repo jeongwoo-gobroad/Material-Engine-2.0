@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="material_basecalcfunction.cpp" />
+    <ClCompile Include="material_basecalcfunctions.cpp" />
     <ClCompile Include="material_sort.cpp" />
     <ClCompile Include="physics_basecalcfunctions.cpp" />
     <ClCompile Include="physics_basecalcfunctions.h" />

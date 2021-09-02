@@ -21,7 +21,7 @@
     <ClCompile Include="physics_basecalcfunctions.h">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="material_basecalcfunction.cpp">
+    <ClCompile Include="material_basecalcfunctions.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="material_sort.cpp">
